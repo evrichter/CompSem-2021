@@ -12,7 +12,7 @@ The task was to implement a **binary sentiment classifier** and perform a brief 
 - Classifier: **Logistic Regression** (scikit-learn)  
 - Evaluation: ~76% accuracy on the test set  
 
-More details can be found in the [report](./Assignment%201_%20Report%20-%20Error%20Analysis.pdf).  
+More details can be found in the [report](./Assignment 1/Assignment 1: Report - Error Analysis.pdf).
 
 ---
 
